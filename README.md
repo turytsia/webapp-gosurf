@@ -1,6 +1,6 @@
 # Preview
 
-!(preview)[./preview.png]
+!(preview)[/preview.png]
 
 ## Idea
 - Design was taken [here](https://www.youtube.com/watch?v=TisGtkOPh24&t=16s)
